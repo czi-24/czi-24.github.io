@@ -1,6 +1,6 @@
 
 
-[![czi-24](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![czi-24](https://img.shields.io/badge/czi24-github-blue?logo=github)](https://github.com/senli1073)
 
 She is currently studying journalism at Nanjing University.
 
