@@ -1,5 +1,5 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 人民奖学金（南京大学），2024
 
 - National Scholarship for Graduate Student, 2024.
 
