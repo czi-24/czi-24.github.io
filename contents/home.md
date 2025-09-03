@@ -2,7 +2,7 @@
 
 [![czi-24](https://img.shields.io/badge/czi24-github-blue?logo=github)](https://github.com/czi-24/senli1073.github.io)
 
-She is currently studying journalism at Nanjing University.
+目前就读于南京大学新闻学专业
 
 #### Contact
 
