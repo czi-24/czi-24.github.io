@@ -1,6 +1,10 @@
 #### 校园经历
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- 南京大学本科招生办公室全媒体中心，部员，2023-2025.
+
+- 家书工作室，学生记者/主编，2023-2025.
+
+- 南大新传团学联宣传部，部员，2024-2025.
 
 #### 实习经历
 
